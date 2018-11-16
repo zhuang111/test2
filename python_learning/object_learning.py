@@ -29,7 +29,7 @@ class Student(Person):
 		super(Student,self).speak()
 		
 #实例化
-p = Student("xiaoming","12","50kg","8")
+p = Student("xiaoming1","12","50kg","8")
 p1 = Person("SS","21","34")
 p.speak()
 p.speak_parent()
