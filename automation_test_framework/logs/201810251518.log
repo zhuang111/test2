@@ -1,0 +1,22 @@
+2018-10-25 15:18:47,008 - BrowserEngine - INFO - You had select Chrome browser.
+2018-10-25 15:18:47,008 - BrowserEngine - INFO - The test server url is: https://www.baidu.com
+2018-10-25 15:18:58,137 - BrowserEngine - INFO - Starting Chrome browser.
+2018-10-25 15:19:52,516 - BrowserEngine - INFO - Open url: https://www.baidu.com
+2018-10-25 15:19:53,702 - BrowserEngine - INFO - Maximize the current window.
+2018-10-25 15:19:53,707 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-10-25 15:19:53,913 - BasePage - INFO - Had find the element '  ' successful by id via value: kw 
+2018-10-25 15:19:54,461 - BasePage - INFO - Had type ' selenium ' in inputBox
+2018-10-25 15:19:54,547 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='su'] 
+2018-10-25 15:19:54,732 - BasePage - INFO - The element '  ' was clicked.
+2018-10-25 15:19:57,840 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-10-25 15:19:57,920 - BasePage - INFO - Had find the element '  ' successful by id via value: kw 
+2018-10-25 15:19:58,141 - BasePage - INFO - Had type ' python ' in inputBox
+2018-10-25 15:19:58,176 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='su'] 
+2018-10-25 15:19:58,297 - BasePage - INFO - The element '  ' was clicked.
+2018-10-25 15:20:00,888 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-10-25 15:20:05,348 - BrowserEngine - INFO - You had select Chrome browser.
+2018-10-25 15:20:05,348 - BrowserEngine - INFO - The test server url is: https://www.baidu.com
+2018-10-25 15:20:10,307 - BrowserEngine - INFO - Starting Chrome browser.
+2018-10-25 15:20:24,520 - BrowserEngine - INFO - Open url: https://www.baidu.com
+2018-10-25 15:20:25,685 - BrowserEngine - INFO - Maximize the current window.
+2018-10-25 15:20:25,687 - BrowserEngine - INFO - Set implicitly wait 10 seconds.

@@ -1,0 +1,9 @@
+2018-10-30 15:05:26,589 - BrowserEngine - INFO - You had select Chrome browser.
+2018-10-30 15:05:26,589 - BrowserEngine - INFO - The test server url is: https://plmtest.pg.com/enovia
+2018-10-30 15:05:34,309 - BrowserEngine - INFO - Starting Chrome browser.
+2018-10-30 15:05:47,725 - BrowserEngine - INFO - Open url: https://plmtest.pg.com/enovia
+2018-10-30 15:05:48,993 - BrowserEngine - INFO - Maximize the current window.
+2018-10-30 15:05:48,996 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-10-30 15:05:54,156 - BasePage - INFO - Had type ' dsotest27.im ' in inputBox
+2018-10-30 15:05:54,518 - BasePage - INFO - Had type ' Check789 ' in inputBox
+2018-10-30 15:05:54,590 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //input[@type = 'submit' and @value = 'Log in'] 

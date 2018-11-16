@@ -1,0 +1,12 @@
+2018-10-26 18:08:04,583 - BrowserEngine - INFO - You had select Chrome browser.
+2018-10-26 18:08:04,584 - BrowserEngine - INFO - The test server url is: https://plmmdev.internal.pg.com/enovia
+2018-10-26 18:08:10,532 - BrowserEngine - INFO - Starting Chrome browser.
+2018-10-26 18:08:14,119 - BrowserEngine - INFO - Open url: https://plmmdev.internal.pg.com/enovia
+2018-10-26 18:08:15,265 - BrowserEngine - INFO - Maximize the current window.
+2018-10-26 18:08:15,268 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-10-26 18:08:45,579 - BrowserEngine - INFO - You had select Chrome browser.
+2018-10-26 18:08:45,580 - BrowserEngine - INFO - The test server url is: https://plmtest.pg.com/enovia
+2018-10-26 18:08:49,669 - BrowserEngine - INFO - Starting Chrome browser.
+2018-10-26 18:08:53,131 - BrowserEngine - INFO - Open url: https://plmtest.pg.com/enovia
+2018-10-26 18:08:54,281 - BrowserEngine - INFO - Maximize the current window.
+2018-10-26 18:08:54,283 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
