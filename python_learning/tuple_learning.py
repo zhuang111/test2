@@ -7,3 +7,10 @@
 tup1 = ('2018','2017','2016')
 
 print("the first object", tup1[0])
+
+# range
+list1 = list(range(1,10,2))
+print(list1)
+
+
+
